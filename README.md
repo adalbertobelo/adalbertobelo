@@ -28,7 +28,6 @@ Minha primeira linha de código foi um "Hello World" em Python. No meu tempo liv
 ![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=power-bi&logoColor=F2C811)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-000?style=for-the-badge&logo=google-colab&logoColor=F2C811)
 ![SAP](https://img.shields.io/badge/SAP-000?style=for-the-badge&logo=sap&logoColor=0E76A8)
-![Mendix](https://img.shields.io/badge/Mendix-000?style=for-the-badge&logo=mendix)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 
