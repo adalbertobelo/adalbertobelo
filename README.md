@@ -1,13 +1,14 @@
 # Bem-vindo ao meu perfil! 👋
 
-Graduado em Logística com experiência em ferramentas ERP e Office. Atualmente, estou cursando Sistemas de Informação e acredito que um dia possa contribuir significantemente para revolucionar um sistema e ajudar pessoas.
+Sou um entusiasta de tecnologia e estou animado com as possibilidades do web3. Graduei em Logística com experiência em ferramentas ERP e Office. 
+
+Atualmente, estou cursando Sistemas de Informação e acredito que um dia possa contribuir significativamente para revolucionar um sistema e ajudar pessoas. 
 
 Minha primeira linha de código foi um "Hello World" em Python. No meu tempo livre, gosto de cozinhar, dormir e absorver informações sobre inovação e tendências.
-
 ## Soft Skills
 
-[![comunicação](https://img.shields.io/badge/comunicação-steelblue)](https://github.com/adalbertobelo/dio-lab-open-source)
-[![proatividade](https://img.shields.io/badge/proatividade-purple)](https://github.com/adalbertobelo/dio-lab-open-source)
+[![comunic](https://img.shields.io/badge/comunicação-steelblue)](https://github.com/adalbertobelo/dio-lab-open-source)
+[![proativit](https://img.shields.io/badge/proatividade-purple)](https://github.com/adalbertobelo/dio-lab-open-source)
 [![flexibilidade](https://img.shields.io/badge/flexibilidade-pink)](https://github.com/adalbertobelo/dio-lab-open-source)
 [![liderança](https://img.shields.io/badge/liderança-orange)](https://github.com/adalbertobelo/dio-lab-open-source)
 
