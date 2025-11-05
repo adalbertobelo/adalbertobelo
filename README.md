@@ -1,15 +1,17 @@
-# 👋 Bem-vindo ao meu perfil
+# 👋 Fala aí, beleza?
 
 ### 🚀 Atualmente
-Sou **Embaixador da Stellar**, com foco em educação e exploração técnica da rede.  
-Estudo **Rust** e o ecossistema **Web3**, buscando entender na prática como protocolos descentralizados podem transformar fluxos corporativos, logísticos e financeiros.
+Sou **Embaixador oficial da Stellar**, focado em educação e conteúdo sobre o ecossistema.  
+Crio também conteúdo sobre a **OriginTrail**, explorando como a Web3 tá mudando a cadeia de suprimentos e o mundo real.
+
+Tô estudando **Rust** e aprofundando na parte técnica da **Stellar e da tokenização de ativos**, sempre ligando tecnologia com uso prático.
 
 ---
 
 Sou profissional de **Logística e Sistemas de Informação**, com experiência em **ERP, Supply Chain e análise de processos**.  
-Atuo na intersecção entre **operações corporativas e tecnologia Web3**, conectando eficiência empresarial com inovação descentralizada.
+Meu trampo hoje é conectar **operações corporativas** com o mundo **Web3**, trazendo eficiência, transparência e inovação pra dentro das empresas.
 
-Meu objetivo é desenvolver soluções que tornem **sistemas mais transparentes, integrados e acessíveis**, unindo tecnologia, dados e propósito.
+Também produzo conteúdo autoral sobre blockchain e descentralização — escrevo no **Substack**, **Medium** e crio **NFTs** na **OpenSea**.
 
 ---
 
@@ -18,7 +20,7 @@ Meu objetivo é desenvolver soluções que tornem **sistemas mais transparentes,
 - Análise e otimização de processos (ERP / Supply Chain)  
 - Integração entre sistemas tradicionais e redes Web3  
 - Automação e visualização de dados  
-- Desenvolvimento com Rust e exploração de protocolos descentralizados  
+- Produção de conteúdo educacional e técnico sobre blockchain  
 
 ---
 
@@ -33,6 +35,7 @@ Meu objetivo é desenvolver soluções que tornem **sistemas mais transparentes,
 
 **Ferramentas e Plataformas:**  
 ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
+![OriginTrail](https://img.shields.io/badge/OriginTrail-000000?style=flat-square&logo=origintrail&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
@@ -41,14 +44,17 @@ Meu objetivo é desenvolver soluções que tornem **sistemas mais transparentes,
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Me encontra por aqui
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/seu-usuario)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adalb/)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zypheriuz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/zypheriuz/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://zypheriuz.medium.com/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@zypheriuz)
+[![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=flat-square&logo=opensea&logoColor=white)](https://opensea.io/Zypheriuz)
+[![Website](https://img.shields.io/badge/Landing_Page-000000?style=flat-square&logo=netlify&logoColor=white)](https://zypheriuz.netlify.app/)
 
 ---
 
 > Construindo pontes entre **sistemas corporativos** e o **ecossistema descentralizado**.  
-> Tecnologia com propósito, visão e impacto real.
+> Misturando **logística, tecnologia e criatividade**, com visão de futuro e propósito real.
