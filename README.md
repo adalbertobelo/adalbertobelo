@@ -1,35 +1,54 @@
-# Bem-vindo ao meu perfil! 👋
+# 👋 Bem-vindo ao meu perfil
 
-Sou um entusiasta de tecnologia e estou animado com as possibilidades do web3. Graduei em Logística com experiência em ferramentas ERP e Office. 
+### 🚀 Atualmente
+Sou **Embaixador da Stellar**, com foco em educação e exploração técnica da rede.  
+Estudo **Rust** e o ecossistema **Web3**, buscando entender na prática como protocolos descentralizados podem transformar fluxos corporativos, logísticos e financeiros.
 
-Atualmente, estou cursando Sistemas de Informação e acredito que um dia possa contribuir significativamente para revolucionar um sistema e ajudar pessoas. 
+---
 
-Minha primeira linha de código foi um "Hello World" em Python. No meu tempo livre, gosto de cozinhar, dormir e absorver informações sobre inovação e tendências.
-## Soft Skills
+Sou profissional de **Logística e Sistemas de Informação**, com experiência em **ERP, Supply Chain e análise de processos**.  
+Atuo na intersecção entre **operações corporativas e tecnologia Web3**, conectando eficiência empresarial com inovação descentralizada.
 
-[![comunic](https://img.shields.io/badge/comunicação-steelblue)](https://github.com/adalbertobelo/dio-lab-open-source)
-[![proativit](https://img.shields.io/badge/proatividade-purple)](https://github.com/adalbertobelo/dio-lab-open-source)
-[![flexibilidade](https://img.shields.io/badge/flexibilidade-pink)](https://github.com/adalbertobelo/dio-lab-open-source)
-[![liderança](https://img.shields.io/badge/liderança-orange)](https://github.com/adalbertobelo/dio-lab-open-source)
+Meu objetivo é desenvolver soluções que tornem **sistemas mais transparentes, integrados e acessíveis**, unindo tecnologia, dados e propósito.
 
-##### Conecte comigo
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/adalbertobelo/)
+### 🧩 Principais Competências
 
-## Minhas Linguagens de Marcação e Estilos
+- Análise e otimização de processos (ERP / Supply Chain)  
+- Integração entre sistemas tradicionais e redes Web3  
+- Automação e visualização de dados  
+- Desenvolvimento com Rust e exploração de protocolos descentralizados  
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+---
 
-## Minhas Ferramentas e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=power-bi&logoColor=F2C811)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-000?style=for-the-badge&logo=google-colab&logoColor=F2C811)
-![SAP](https://img.shields.io/badge/SAP-000?style=for-the-badge&logo=sap&logoColor=0E76A8)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+**Linguagens e Marcação:**  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
+**Ferramentas e Plataformas:**  
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-#### Espero que goste do meu perfil! By👋
+---
+
+### 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/seu-usuario)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@seu-usuario)
+
+---
+
+> Construindo pontes entre **sistemas corporativos** e o **ecossistema descentralizado**.  
+> Tecnologia com propósito, visão e impacto real.
